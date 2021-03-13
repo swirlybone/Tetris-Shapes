@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SierpinskiGasket2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DrawingShapes.cpp
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\Angel.h(64,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(698,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(699,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(700,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(721,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(723,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(726,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(743,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(39,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(40,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(41,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(370,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(376,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(377,46): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(412,51): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(504,21): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(517,13): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(518,14): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(519,29): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\DrawingShapes.cpp(519,22): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  InitShader.cpp
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\Angel.h(64,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(698,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(699,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(700,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(721,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(723,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(726,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\FirstApp\mat.h(743,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  LINK : C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\Debug\DrawingShapes.exe not found or not built by the last incremental link; performing full link
+  FirstApp.vcxproj -> C:\Users\treyb\Desktop\2020\DrawingShapes\DrawingShapes\Debug\DrawingShapes.exe
